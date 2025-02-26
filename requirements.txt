@@ -1,0 +1,9 @@
+streamlit==1.37.1
+joblib==1.4.2
+xgboost==2.1.1
+pandas==2.2.2
+numpy==2.1.0
+scikit-learn==1.5.1
+fastapi==0.110.0
+uvicorn==0.29.0
+pydantic==2.6.4
